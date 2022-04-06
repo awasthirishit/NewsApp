@@ -9,4 +9,4 @@
 <img src="Screenshot_20220304_193801.png" width="300px"/>
 
 ## ScreenRecording
-[Click Here for screen recording](https://github.com/awasthirishit/ApniNews/blob/main/screenrecord.mp4?raw=true)
+[Click Here for screen recording](https://github.com/awasthirishit/NewsApp/blob/main/screenrecord.mp4?raw=true)
